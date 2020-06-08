@@ -1,3 +1,5 @@
+![Pymaze](pymaze-preview.jpg)
+
 # Description
 
 Implemented a well explained depth-first search maze algorithm by Miga at migapro.com
